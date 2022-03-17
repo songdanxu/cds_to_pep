@@ -1,1 +1,1 @@
-# cds_to_pep
+# cds_2_pep
